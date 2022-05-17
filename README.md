@@ -11,7 +11,7 @@ The thresholds for liquid water content and ice water content (IWC) were set as 
 
 The airborne data was collected during seven fiel campaigns 
 project	  dates	           operation base	            Lat/Lon        # flights
---------------------------------------------------------------------------------                                                   
+______________________________________________________________________________________                                                 
 BASE	    Sep-Oct/1994	      Inuvik (NT)	          57N–74N,  113W–141W	  10
 CFDE 1	  Feb-Mar/1995	      St. John’s (NL)	      45N–53N,  54W–63W	    12
 CFDE 3	  Dec/1997-Feb/1998	  Ottawa (ON) 	        42N–50N,  71W–83W	    27
