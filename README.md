@@ -2,7 +2,6 @@ Alexei Korolev
 Meteorological Research Division
 Atmospheric Science and Technology Directorate
 Environment and Climate Change Canada
----------------------------------------------------------------------------------------------
 
 # NevzorovData_ECCC
 
