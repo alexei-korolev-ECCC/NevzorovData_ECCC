@@ -10,7 +10,7 @@ The methodology of Nevzorov probe data processing and phase discrimination was d
 The thresholds for liquid water content and ice water content (IWC) were set as LWC > 0.01g m-3, IWC > 0.01g m-3, respectively. The phase composition of clouds was identified based on the assessment of the ice water fraction μ=IWC/(LWC+IWC). Thus, clouds with μ> 0.9 were considered as ice, clouds with μ< 0.1 were defined as liquid, and clouds 0.1 ≤μ≤ 0.9 were determined as mixed-phase clouds. 
 
 The airborne data was collected during seven fiel campaigns 
-project	  dates	           operation base	            Lat/Lon        # flights
+project	  dates	           operation base	            Lat/Lon          # flights
 ______________________________________________________________________________________                                                 
 BASE	    Sep-Oct/1994	      Inuvik (NT)	          57N–74N,  113W–141W	  10
 CFDE 1	  Feb-Mar/1995	      St. John’s (NL)	      45N–53N,  54W–63W	    12
@@ -18,4 +18,4 @@ CFDE 3	  Dec/1997-Feb/1998	  Ottawa (ON) 	        42N–50N,  71W–83W	    27
 FIRE-ACE	Apr/1998	          Inuvik (NT)	          68N–76N,  133W–167W	  17
 AIRS 1	  Dec/1999-Feb/2000	  Ottawa (ON)	          42N–46N,  74W–82W	    25
 AIRS 1.5	Feb/2003	          Ottawa (ON)	          42N–46N,  74W–82W	    8
-AIRS 2	  Nov/2003-Feb/2004 	Ottawa (ON)	          42N–46N, 74W–82W	    21
+AIRS 2	  Nov/2003-Feb/2004 	Ottawa (ON)	          42N–46N,  74W–82W	    21
