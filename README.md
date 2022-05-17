@@ -1,3 +1,9 @@
+Alexei Korolev
+Meteorological Research Division
+Atmospheric Science and Technology Directorate
+Environment and Climate Change Canada
+---------------------------------------------------------------------------------------------
+
 # NevzorovData_ECCC
 
 The in-situ data were collected by Environment and Climate Change Canada (ECCC) in collaboration with the National Research Council (NRC) on the NRC Convair-580 research aircraft equipped by: the Nevzorov probe (Korolev et al. 1998), Rosemount Icing Detector (Baumgardner and Rodi, 1989; Mazin et al. 2001), Forward Scattering Spectrometer Probe (FSSP) (Knollenberg, 1976, McFarquhar et al, 2017), Optical Array Probe 2DC (OAP-2DC) (Knollenberg, 1976; Baumgardner et al., 2017), and Optical Array Probe 2DP (OAP-2DP) (Knollenberg, 1976).
